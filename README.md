@@ -1,7 +1,5 @@
 # Hotel-OTA-Data-Analysis
 
-# Hotel-OTA-Data-Analysis
-
 ## **결론**
 > 분석 결과를 바탕으로, 다음과 같은 결론과 향후 방향성을 도출할 수 있었습니다:
 
