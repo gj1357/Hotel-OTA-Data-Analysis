@@ -17,13 +17,13 @@
 <img src="https://i.imgur.com/Ql67wKV.png"/>
 
 
-7. 코로나19 엔데믹 선언 이후 국내 호텔 예약 증감 확인
+4. 코로나19 엔데믹 선언 이후 국내 호텔 예약 증감 확인
 <img src="https://i.imgur.com/l1G0U5K.png"/>
 
-9. 서울 호텔 중 판매량이 가장 높은 호텔 확인
+5. 서울 호텔 중 판매량이 가장 높은 호텔 확인
 <img src="https://i.imgur.com/ouPYiVs.png"/>
 
-11. OTA 별 호텔 객실 판매 현황, 특징, 판매 트렌드 파악
+6. OTA 별 호텔 객실 판매 현황, 특징, 판매 트렌드 파악
 
 ## 인사이트
 
